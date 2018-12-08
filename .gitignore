@@ -1,7 +1,5 @@
 # Comment
 tempfile.txt
-.DS_Store
-.vscode
 *.zip
 *.gz
 *.7z
